@@ -20,44 +20,26 @@ _Product-minded full-stack engineer focused on outcomes & speed to value_
 
 ## Tech I use
 
-<div align="center">
-  
-<!-- Row 1 -->
-<img alt="Next.js" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-&nbsp;&nbsp;
-<img alt="React" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-&nbsp;&nbsp;
-<img alt="TypeScript" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-&nbsp;&nbsp;
-<img alt="Tailwind" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-&nbsp;&nbsp;
-<img alt="shadcn/ui (Radix)" height="28" src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" />
-
-<br/>
-
-<!-- Row 2 -->
-<img alt="Node.js" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-&nbsp;&nbsp;
-<img alt="Express" height="28" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
-&nbsp;&nbsp;
-<img alt="Prisma" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-&nbsp;&nbsp;
-<img alt="PostgreSQL" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-&nbsp;&nbsp;
-<img alt="Supabase" height="28" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" />
-&nbsp;&nbsp;
-<img alt="Redis" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-
-<br/>
-
-<!-- Row 3: Foundations -->
-<img alt="HTML5" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-&nbsp;&nbsp;
-<img alt="CSS3" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-&nbsp;&nbsp;
-<img alt="SQL (SQLite)" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-
-</div>
+<p align="center">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-111827?logo=radixui&logoColor=white&style=for-the-badge" />
+</p>
+<p align="center">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=111&style=for-the-badge" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+</p>
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
+</p>
 
 ## Contact
 
