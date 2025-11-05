@@ -1,38 +1,71 @@
+<!-- Centered hero -->
 <div align="center">
 
-### I build end-to-end web products
+# Teuku Sulthan
 
+**I build end-to-end web products**  
 Clear UX • Solid APIs • Reliable data  
-**Product-minded full-stack engineer** focused on outcomes & speed to value
+_Product-minded full-stack engineer focused on outcomes & speed to value_
 
 </div>
 
+---
+
 ## What I do
 
-- Full-stack with TypeScript, React/Next.js, Node.js
-- Data layer with Prisma, PostgreSQL, Supabase, Redis
-- UX with Tailwind & shadcn/ui
+- Full-stack with TypeScript, React/Next.JS, Express.JS.
+- Data with Prisma, PostgreSQL, Supabase, Redis
+- UI with Tailwind & shadcn/ui
 - Ship fast with clean code, tests, and observability
 
 ## Tech I use
 
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-111827?logo=radixui&logoColor=white&style=for-the-badge" />
-</p>
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=111&style=for-the-badge" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
-</p>
+<div align="center">
+  
+<!-- Row 1 -->
+<img alt="Next.js" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+&nbsp;&nbsp;
+<img alt="React" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+&nbsp;&nbsp;
+<img alt="TypeScript" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+&nbsp;&nbsp;
+<img alt="Tailwind" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+&nbsp;&nbsp;
+<img alt="shadcn/ui (Radix)" height="28" src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" />
+
+<br/>
+
+<!-- Row 2 -->
+<img alt="Node.js" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+&nbsp;&nbsp;
+<img alt="Express" height="28" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
+&nbsp;&nbsp;
+<img alt="Prisma" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+&nbsp;&nbsp;
+<img alt="PostgreSQL" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+&nbsp;&nbsp;
+<img alt="Supabase" height="28" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" />
+&nbsp;&nbsp;
+<img alt="Redis" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+
+<br/>
+
+<!-- Row 3: Foundations -->
+<img alt="HTML5" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+&nbsp;&nbsp;
+<img alt="CSS3" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+&nbsp;&nbsp;
+<img alt="SQL (SQLite)" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+
+</div>
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=white&style=for-the-badge)](mailto:teukusultanul@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teukusultanul@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teuku-sulthan-4171a32a7/)
+
+---
+
+<div align="center">
+  <i>Open to building useful things—fast, clean, and measurable.</i>
+</div>
