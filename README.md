@@ -4,7 +4,6 @@
 # Teuku Sulthan
 
 **I build end-to-end web products**  
-Clear UX • Solid APIs • Reliable data  
 _Product-minded full-stack engineer focused on outcomes & speed to value_
 
 </div>
@@ -30,6 +29,7 @@ _Product-minded full-stack engineer focused on outcomes & speed to value_
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt "Golang" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=111&style=for-the-badge" />
@@ -49,5 +49,5 @@ _Product-minded full-stack engineer focused on outcomes & speed to value_
 ---
 
 <div align="center">
-  <i>Open to building useful things—fast, clean, and measurable.</i>
+  <i>Open to building useful things fast, clean, and measurable.</i>
 </div>
